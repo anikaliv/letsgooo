@@ -1,7 +1,8 @@
 ---
 title: "anika test"
-output: html_document
+author: "anika harmonica"
 date: "2023-05-20"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
